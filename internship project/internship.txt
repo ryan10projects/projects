@@ -1,1 +1,2 @@
 i was told to build an asp.net web page connected to an oracle database which was hosted using a server to gather data from the user with login page.
+The pdf included was made for my diploma project
