@@ -1,0 +1,1 @@
+i was asked to build an asp.net web page connected to an oracle database which was hosted using a server to gather data from the user with login page.
